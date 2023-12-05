@@ -8,6 +8,10 @@ TagManager:
   - kitchenlight
   - HidingSpot
   - Cat
+  - bathroomlight
+  - sleepingroomlight
+  - bathroomlightswitch
+  - sleepingroomlightswich
   layers:
   - Default
   - TransparentFX
